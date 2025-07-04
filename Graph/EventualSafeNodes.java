@@ -8,9 +8,11 @@ class EventualSafeNodes{
         for (int neighbor : graph[node]) {
             if (!vis[neighbor]) {
                 if (dfsCheck(neighbor, graph, vis, pathVis, check)) {
+                    check[node] = false;
                     return true; // cycle detected
                 }
             } else if (pathVis[neighbor]) {
+                check[node] = false;
                 return true; // back edge found -> cycle
             }
         }
