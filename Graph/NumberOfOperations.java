@@ -48,11 +48,6 @@ public class NumberOfOperations {
             }
         }
 
-        // Apply path compression to finalize parents
-        for (int i = 0; i < n; i++) {
-            find(i);
-        }
-
         int components = 0;
         for (int i = 0; i < n; i++) {
             if (parent[i] == i) components++;
