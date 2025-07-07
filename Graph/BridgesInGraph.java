@@ -11,7 +11,7 @@ class BridgesInGraph {
             if (it == parent) continue;
 
             if (!vis[it]) {
-                dfs(it, node, vis, adj, tin, low, bridges); // 🔥 FIXED here
+                dfs(it, node, vis, adj, tin, low, bridges); 
                 low[node] = Math.min(low[node], low[it]);
 
                 if (low[it] > tin[node]) {
