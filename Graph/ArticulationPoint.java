@@ -44,9 +44,7 @@ public class ArticulationPoint {
 
         ArrayList<Integer> res = new ArrayList<>();
         for (int i = 0; i < V; i++) {
-            if (isArticulation[i]) {
-                res.add(i);
-            }
+            if (isArticulation[i]) res.add(i);
         }
 
         if (res.isEmpty()) res.add(-1); 
