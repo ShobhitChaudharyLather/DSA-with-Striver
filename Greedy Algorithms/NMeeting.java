@@ -23,9 +23,11 @@ class NMeeting {
         ArrayList<Integer> meetings = new ArrayList<>();
         meetings.add(arr[0].pos);
         int lastEndTime = arr[0].end;
+        int cnt=1;
 
         for (int i = 1; i < N; i++) {
             if (arr[i].start > lastEndTime) {
+                cnt++;
                 meetings.add(arr[i].pos);
                 lastEndTime = arr[i].end;
             }
@@ -40,7 +42,6 @@ class NMeeting {
         int N = start.length;
 
         ArrayList<Integer> result = maxMeetings(N, start, end);
-
         System.out.println("Meetings that can be attended (by index): " + result);
     }
 }
