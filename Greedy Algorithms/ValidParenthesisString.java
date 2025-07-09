@@ -23,7 +23,7 @@ public class ValidParenthesisString {
     }
 
     public static void main(String[] args) {
-        String s = "(*))";
+        String s = "(*)))";
         System.out.println("Is valid? " + checkValidString(s));
     }
 }
