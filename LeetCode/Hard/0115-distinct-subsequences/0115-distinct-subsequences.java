@@ -1,7 +1,7 @@
 class Solution {
     public int numDistinct(String s, String t) {
         int n = s.length(), m = t.length();
-        int dp[][] = new int[n+1][m+1];
+        long dp[][] = new long[n+1][m+1];
 
         for(int i=0;i<=n;i++) dp[i][0] = 1;
         
