@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 ## Sorting
@@ -24,6 +25,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -38,4 +40,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
