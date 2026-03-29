@@ -1,6 +1,5 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        if(s.length() == 0) return true;
         StringBuilder sb = new StringBuilder();
         for(char ch : s.toCharArray()){
             if(Character.isLetterOrDigit(ch)){
