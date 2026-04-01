@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
@@ -54,6 +55,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0443-string-compression](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
@@ -85,6 +87,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
