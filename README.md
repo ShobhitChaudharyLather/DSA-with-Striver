@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0078-subsets](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
@@ -127,4 +128,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
