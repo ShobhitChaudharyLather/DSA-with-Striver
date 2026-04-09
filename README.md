@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
@@ -136,6 +137,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
