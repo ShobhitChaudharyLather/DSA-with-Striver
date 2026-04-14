@@ -174,6 +174,7 @@
 | [0110-balanced-binary-tree](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -184,6 +185,7 @@
 | [0110-balanced-binary-tree](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -195,6 +197,7 @@
 | [0110-balanced-binary-tree](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
