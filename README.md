@@ -27,6 +27,7 @@
 | [0496-next-greater-element-i](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0733-flood-fill](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 ## Hash Table
@@ -202,6 +203,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/0547-number-of-provinces/) | Medium |
+| [0733-flood-fill](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -230,6 +232,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/0547-number-of-provinces/) | Medium |
+| [0733-flood-fill](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -246,4 +249,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0733-flood-fill](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 <!---LeetCode Topics End-->
