@@ -14,9 +14,7 @@ class Solution {
             return;
         }
 
-        if(image[sr][sc] == orgColor){
-            image[sr][sc] = color;
-        }
+        image[sr][sc] = color;
 
         dfs(image, sr + 1, sc, orgColor, color);
         dfs(image, sr - 1, sc, orgColor, color);
