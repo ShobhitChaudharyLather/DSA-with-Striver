@@ -9,7 +9,7 @@ class Solution {
     public void dfs(int[][] image, int sr, int sc, int orgColor, int color){
         int n = image.length;
         int m = image[0].length;
-        
+        //condition check
         if(sr < 0 || sc < 0 || sr >= n || sc >= m || image[sr][sc] != orgColor){
             return;
         }
