@@ -33,6 +33,7 @@
 | [0733-flood-fill](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
+| [0994-rotting-oranges](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +240,7 @@
 | [0200-number-of-islands](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -256,6 +258,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
