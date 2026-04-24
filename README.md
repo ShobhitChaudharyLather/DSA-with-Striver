@@ -28,6 +28,7 @@
 | [0239-sliding-window-maximum](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0542-01-matrix](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
@@ -69,6 +70,7 @@
 | [0045-jump-game-ii](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0542-01-matrix](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +240,7 @@
 | [0112-path-sum](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
@@ -257,6 +260,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/ShobhitChaudharyLather/DSA-with-Striver/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Greedy
