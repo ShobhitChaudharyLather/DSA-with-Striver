@@ -31,7 +31,7 @@ class Solution {
         if(i < 0 || j < 0 || i >= n || j >= m || board[i][j] != 'O'){
             return;
         }
-
+        //mark boundary 
         board[i][j] = '#';
 
         dfs(board, i+1, j);
