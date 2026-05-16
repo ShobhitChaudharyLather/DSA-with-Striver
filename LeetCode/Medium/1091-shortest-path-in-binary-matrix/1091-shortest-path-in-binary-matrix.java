@@ -6,7 +6,7 @@ class Solution {
         }
         int[][] dir = {{-1,-1}, {-1,0}, {-1,1}, {0,-1}, {0,1}, {1,-1}, {1,0}, {1,1}};
         Queue<int[]> q = new LinkedList<>();
-        q.offer(new int[]{0,0,1});
+        q.offer(new int[]{0,0,1});//r, c, dist
         grid[0][0] = 1;
 
         while(!q.isEmpty()){
